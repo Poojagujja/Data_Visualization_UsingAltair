@@ -4,4 +4,4 @@ Data Visualization using Altair: Time series visualizations, Spatial Visualizati
 
 Interactive Visualizations: Implemented mouse following interaction, created own interaction outcome where the dot color changes randomly as you move your mouse, Loading and Parsing Data in D3 using React, Creating Menus, Geo Visualization 
 
-Implemented the above visualizations using Java Script, Html, CSS, D3 using React [Click Here](https://vizhub.com/Poojagujja?sort=mostRecent)
+Implemented the above visualizations using Java Script, Html, CSS, and D3 using React [Go To VizHub for Interactive Visualization](https://vizhub.com/Poojagujja?sort=mostRecent)
